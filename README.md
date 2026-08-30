@@ -1,16 +1,26 @@
-## Hi there 👋
+# Sup, it's Keito
 
-<!--
-**wosokeiso58/wosokeiso58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a Computer Science with Artificial Intelligence student at the University of Sussex.
 
-Here are some ideas to get you started:
+I enjoy designing, building and optimising software to solve real problems I encounter for any quality of life improvements or dopamine hits. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Believer of the grind. You can try to find shortcuts but long-term progress equals showing up, making mistakes, and iterating. For me at least.
+
+## Projects
+
+- **Language Learning Tracker** — JavaFX application for recording and analysing language learning progress
+- **Rubik's Cube First Pair Solver** — C++ project exploring heuristic search and optimisation techniques
+- **Vocabulary Prioritiser** — JavaFX tool for organising vocabulary study workflows
+
+## Currently learning
+
+- Python data analysis with pandas
+- Machine learning
+- Algorithms and data structures
+
+## Outside of programming
+
+- Speedcubing
+- Language learning (Japanese, Korean and Spanish)
+- Accounting
+- Geometry Dash (Sonic Wave Victor 🥀)
