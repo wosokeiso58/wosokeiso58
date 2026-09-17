@@ -20,7 +20,7 @@ Believer of the grind. You can try to find shortcuts but long-term progress equa
 
 ## Outside of programming
 
-- Speedcubing
-- Language learning (Japanese, Korean and Spanish)
+- Language learning (Primarily Japanese, Korean and Spanish)
 - Accounting
+- Speedcubing (Sub-10 average 3x3 🥀)
 - Geometry Dash (Sonic Wave Victor 🥀)
