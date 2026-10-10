@@ -9,8 +9,8 @@ Believer of the grind. You can try to find shortcuts but long-term progress equa
 ## Projects
 
 - **Language Learning Tracker** — JavaFX application for recording and analysing language learning progress
-- **Rubik's Cube First Pair Solver** — C++ project exploring heuristic search and optimisation techniques
-- **Vocabulary Prioritiser** — JavaFX tool for organising vocabulary study workflows
+- **Keibe Rubik's Cube First Pair Solver** — C++ project exploring heuristic search and optimisation techniques
+- **Vocab Manager** — JavaFX tool for organising vocabulary study workflows
 
 ## Currently learning
 
