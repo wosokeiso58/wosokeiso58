@@ -23,4 +23,4 @@ Believer of the grind. You can try to find shortcuts but long-term progress equa
 - Language learning (Primarily Japanese, Korean and Spanish)
 - Accounting
 - Speedcubing (Sub-10 average 3x3 🥀)
-- Geometry Dash (Sonic Wave Victor 🥀)
+- Geometry Dash (Shardscapes Victor 🥀)
